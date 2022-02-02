@@ -1,2 +1,5 @@
-language = "undefined"
-run = ""
+#include<stdio.h>
+void input(int *a,int b)
+{
+printf("enter a number\n")
+scanf("
