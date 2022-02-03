@@ -1,5 +1,5 @@
 #include<stdio.h>
-int cmp(int a,int b,int c,)
+int cmp(int a,int b,int c)
 {
   if(a>b)
   {
@@ -38,6 +38,6 @@ int main()
   b=input();
   c=input();
   large=cmp(a,b,c);
-  printf(%d is the largest of the three",large);
+  printf("%d is the largest of the three",large);
 }
 
