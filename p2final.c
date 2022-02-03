@@ -27,7 +27,6 @@ int cmp(int a,int b,int c)
 int input()
 {
   int x;
-  printf("add three numbers\n");
   scanf("%d",&x);
   return x;
 }
